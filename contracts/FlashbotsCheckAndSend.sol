@@ -3,7 +3,7 @@ pragma solidity 0.6.12;
 pragma experimental ABIEncoderV2;
 
 /*
-  Copyright 2021 Flashbots: Scott Bigelow (scott@flashbots.net).
+  Copyright 2020 Matt Palmer/ MDP HOLDINGS LLC/ SkunkwurX
 */
 
 // This contract performs one or many staticcall's, compares their output, and pays
